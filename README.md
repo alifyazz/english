@@ -1,2 +1,1 @@
-# english
-Procedural text assignment
+# Hello GitHub
